@@ -10,9 +10,8 @@ The L293D Motor Driver/Servo Shield for Arduino and the L298N 2A Based Motor Dri
 ## Requirements
 - Arduino IDE
 - L293D Motor Driver/Servo Shield for Arduino
-- L298N 2A Based Motor Driver Module
 - HC-SR04 Ultrasonic Sensor
-- SG90 Micro Servo Motor
+- SG90 9gm Micro Servo Motor
 - Standard Remote Control or Smartphone with Bluetooth
 - 4 DC Motors
 - 9V battery or power supply for the motors
